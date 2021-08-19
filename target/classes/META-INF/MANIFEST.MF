@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: contactura
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: xicoj
+Implementation-Vendor-Id: com.contactura
+Build-Jdk: 1.8.0_291
+Implementation-URL: https://spring.io/projects/spring-boot/contactura
+Created-By: Maven Integration for Eclipse
+
